@@ -1,0 +1,13 @@
+// let str='';
+// str+=12;
+// str+='+';
+// str+='3';
+// console.log(str);
+// console.log(str.length);
+// console.log(typeof(str));
+// str=eval(str);
+// str=str.toString();
+// console.log(typeof(str));
+// console.log(str.length);
+let str='divy';
+console.log(str[str.length-1]);
